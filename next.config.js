@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  // Configuration standard pour Vercel
   trailingSlash: true,
   images: {
     unoptimized: true
